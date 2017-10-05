@@ -1,0 +1,282 @@
+#HIT_SYSPRINT: "03.07.2013 12:03:16" HIT 2.10-4
+
+
+
+MAIN LEVEL COMMAND <___>
+<  AAHP:;
+
+LOADING PROGRAM VERSION 5.4-0
+
+MSCi      MSS53                     2013-07-03  12:03:12
+
+ALARM HISTORY
+
+
+    <HIST> MSS53                  STU-1       SWITCH    2013-07-03  00:07:15.71
+    NOTICE STU-1      1A001-07    OL1_SX                               
+    (0176) 0154 INTERCEPTION NOTICE                                             
+    A008 00000000 0000 00000000 00000000 
+
+    <HIST> MSS53                  STU-1       SWITCH    2013-07-03  00:07:17.34
+    NOTICE STU-1      1A001-07    OL1_SX                               
+    (0177) 0154 INTERCEPTION NOTICE                                             
+    A00B 00000000 0000 00000000 00000000 
+
+    <HIST> MSS53                  SIGU-1      SWITCH    2013-07-03  00:20:59.67
+*   ALARM  SIGU-1     1A005-00    ZSCPRB                               
+    (0024) 3686 HOST OF A SIP FQDN IS UNREACHABLE                               
+    0A 50 2F DB 00 00 00 00 00 00 00 00 00 00 00 00 FFFF 0005 00 
+
+    <HIST> MSS53                  BSU-1       SWITCH    2013-07-03  00:20:59.66
+**  ALARM  BSU-1      1A005-01    IC2_SS                               
+    (0025) 2186 CALL CONTROL ANALYSIS MISSING                                   
+    03 0002 00 08 00 00 09 20 00 00 00 00 00 00 00 
+
+    <HIST> MSS53                  SIGU-1      SWITCH    2013-07-03  00:22:05.86
+.   CANCEL SIGU-1     1A005-00    ZSCPRB                               
+    (0024) 3686 HOST OF A SIP FQDN IS UNREACHABLE                               
+    0A 50 2F DB 00 00 00 00 00 00 00 00 00 00 00 00 FFFF 0005 00 
+
+    <HIST> MSS53                  SIGU-2      SWITCH    2013-07-03  00:22:08.77
+*   ALARM  SIGU-2     1A005-02    ZSCPRB                               
+    (0026) 3686 HOST OF A SIP FQDN IS UNREACHABLE                               
+    0A 50 2F DB 00 00 00 00 00 00 00 00 00 00 00 00 FFFF 0005 00 
+
+    <HIST> MSS53                  SIGU-2      SWITCH    2013-07-03  00:23:10.97
+.   CANCEL SIGU-2     1A005-02    ZSCPRB                               
+    (0026) 3686 HOST OF A SIP FQDN IS UNREACHABLE                               
+    0A 50 2F DB 00 00 00 00 00 00 00 00 00 00 00 00 FFFF 0005 00 
+
+    <HIST> MSS53                  STU-1       SWITCH    2013-07-03  00:26:58.68
+    NOTICE STU-1      1A001-07    OL1_SX                               
+    (0178) 0154 INTERCEPTION NOTICE                                             
+    A008 00000000 0000 00000000 00000000 
+
+    <HIST> MSS53                  STU-1       SWITCH    2013-07-03  00:27:00.31
+    NOTICE STU-1      1A001-07    OL1_SX                               
+    (0179) 0154 INTERCEPTION NOTICE                                             
+    A00B 00000000 0000 00000000 00000000 
+
+    <HIST> MSS53                  STU-1       SWITCH    2013-07-03  01:02:06.33
+    NOTICE STU-1      1A001-07    OL1_SX                               
+    (0180) 0154 INTERCEPTION NOTICE                                             
+    A008 00000000 0000 00000000 00000000 
+
+    <HIST> MSS53                  STU-1       SWITCH    2013-07-03  01:02:08.26
+    NOTICE STU-1      1A001-07    OL1_SX                               
+    (0181) 0154 INTERCEPTION NOTICE                                             
+    A00B 00000000 0000 00000000 00000000 
+
+    <HIST> MSS53                  STU-1       SWITCH    2013-07-03  01:32:47.38
+    NOTICE STU-1      1A001-07    OL1_SX                               
+    (0182) 0154 INTERCEPTION NOTICE                                             
+    A008 00000000 0000 00000000 00000000 
+
+    <HIST> MSS53                  STU-1       SWITCH    2013-07-03  01:32:49.03
+    NOTICE STU-1      1A001-07    OL1_SX                               
+    (0183) 0154 INTERCEPTION NOTICE                                             
+    A00B 00000000 0000 00000000 00000000 
+
+    <HIST> MSS53                  CMM-1       SWITCH    2013-07-03  01:40:39.33
+..  CANCEL ........               CCNETM                               
+    (0018) 2072 FAILURE IN SIGNALLING LINK ACTIVATION OR RESTORATION            
+    0030 03 00 00 
+
+    <HIST> MSS53                  CMM-1       SWITCH    2013-07-03  01:45:02.66
+**  ALARM  ........               CCNETM                               
+    (0027) 2072 FAILURE IN SIGNALLING LINK ACTIVATION OR RESTORATION            
+    0030 03 00 00 
+
+    <HIST> MSS53                  SIGU-2      SWITCH    2013-07-03  02:34:13.80
+*** ALARM  ........               HTAPRB                               
+    (0028) 3937 H.248 IP CONNECTION LOST                                        
+    0000000B 00 01 13951d 
+
+    <HIST> MSS53                  CMM-1       SWITCH    2013-07-03  02:34:13.80
+*** ALARM  CMM                    WGDPRB                               
+    (0029) 3474 VMGW OUT OF SERVICE                                             
+    0000000B 
+
+    <HIST> MSS53                  SIGU-1      SWITCH    2013-07-03  02:34:13.81
+    NOTICE SIGU-1     1A005-00    SIZ_SC                               
+    (0184) 0130 CIRCUIT/CIC BLOCKED                                             
+    03 85 2056d 2d 0E 00002400 
+
+    <HIST> MSS53                  SIGU-2      SWITCH    2013-07-03  02:34:13.80
+    NOTICE SIGU-2     1A005-02    SIZ_SC                               
+    (0185) 0130 CIRCUIT/CIC BLOCKED                                             
+    03 85 2049d 1d 1F 00002400 
+
+    <HIST> MSS53                  SIGU-1      SWITCH    2013-07-03  02:34:13.81
+    NOTICE SIGU-1     1A005-00    SIZ_SC                               
+    (0186) 0130 CIRCUIT/CIC BLOCKED                                             
+    03 85 2063d 1d 1F 00002400 
+
+    <HIST> MSS53                  SIGU-2      SWITCH    2013-07-03  02:34:13.81
+    NOTICE SIGU-2     1A005-02    SIZ_SC                               
+    (0187) 0130 CIRCUIT/CIC BLOCKED                                             
+    03 85 2064d 1d 1F 00002400 
+
+    <HIST> MSS53                  SIGU-2      SWITCH    2013-07-03  02:34:13.81
+    NOTICE SIGU-2     1A005-02    SIZ_SC                               
+    (0188) 0130 CIRCUIT/CIC BLOCKED                                             
+    03 85 2067d 1d 1F 00002400 
+
+    <HIST> MSS53                  SIGU-2      SWITCH    2013-07-03  02:34:33.81
+    NOTICE SIGU-2     1A005-02    SIZ_SC                               
+    (0189) 0130 CIRCUIT/CIC BLOCKED                                             
+    02 85 2049d 1d 1F 00002400 
+
+    <HIST> MSS53                  SIGU-1      SWITCH    2013-07-03  02:34:33.81
+    NOTICE SIGU-1     1A005-00    SIZ_SC                               
+    (0190) 0130 CIRCUIT/CIC BLOCKED                                             
+    02 85 2056d 2d 0E 00002400 
+
+    <HIST> MSS53                  SIGU-2      SWITCH    2013-07-03  02:34:33.81
+    NOTICE SIGU-2     1A005-02    SIZ_SC                               
+    (0191) 0131 CIRCUIT/CIC DEBLOCKED                                           
+    04 85 2049d 1d 1F 00002400 
+
+    <HIST> MSS53                  SIGU-1      SWITCH    2013-07-03  02:34:33.81
+    NOTICE SIGU-1     1A005-00    SIZ_SC                               
+    (0192) 0131 CIRCUIT/CIC DEBLOCKED                                           
+    04 85 2056d 2d 0E 00002400 
+
+    <HIST> MSS53                  SIGU-1      SWITCH    2013-07-03  02:34:33.81
+    NOTICE SIGU-1     1A005-00    SIZ_SC                               
+    (0193) 0130 CIRCUIT/CIC BLOCKED                                             
+    02 85 2063d 1d 1F 00002400 
+
+    <HIST> MSS53                  SIGU-1      SWITCH    2013-07-03  02:34:33.81
+    NOTICE SIGU-1     1A005-00    SIZ_SC                               
+    (0194) 0131 CIRCUIT/CIC DEBLOCKED                                           
+    04 85 2063d 1d 1F 00002400 
+
+    <HIST> MSS53                  SIGU-2      SWITCH    2013-07-03  02:34:33.81
+    NOTICE SIGU-2     1A005-02    SIZ_SC                               
+    (0195) 0130 CIRCUIT/CIC BLOCKED                                             
+    02 85 2064d 1d 1F 00002400 
+
+    <HIST> MSS53                  SIGU-2      SWITCH    2013-07-03  02:34:33.81
+    NOTICE SIGU-2     1A005-02    SIZ_SC                               
+    (0196) 0131 CIRCUIT/CIC DEBLOCKED                                           
+    04 85 2064d 1d 1F 00002400 
+
+    <HIST> MSS53                  SIGU-2      SWITCH    2013-07-03  02:34:33.81
+    NOTICE SIGU-2     1A005-02    SIZ_SC                               
+    (0197) 0130 CIRCUIT/CIC BLOCKED                                             
+    02 85 2067d 1d 1F 00002400 
+
+    <HIST> MSS53                  SIGU-2      SWITCH    2013-07-03  02:34:33.81
+    NOTICE SIGU-2     1A005-02    SIZ_SC                               
+    (0198) 0131 CIRCUIT/CIC DEBLOCKED                                           
+    04 85 2067d 1d 1F 00002400 
+
+    <HIST> MSS53                  SIGU-2      SWITCH    2013-07-03  02:34:43.44
+... CANCEL ........               HTAPRB                               
+    (0028) 3937 H.248 IP CONNECTION LOST                                        
+    0000000B 00 01 13951d 
+
+    <HIST> MSS53                  CMM-1       SWITCH    2013-07-03  02:34:44.44
+... CANCEL CMM                    WGDPRB                               
+    (0029) 3474 VMGW OUT OF SERVICE                                             
+    0000000B 
+
+    <HIST> MSS53                  SIGU-2      SWITCH    2013-07-03  02:34:44.45
+    NOTICE SIGU-2     1A005-02    SIZ_SC                               
+    (0199) 0131 CIRCUIT/CIC DEBLOCKED                                           
+    02 85 2049d 1d 1F 00002400 
+
+    <HIST> MSS53                  SIGU-1      SWITCH    2013-07-03  02:34:44.46
+    NOTICE SIGU-1     1A005-00    SIZ_SC                               
+    (0200) 0131 CIRCUIT/CIC DEBLOCKED                                           
+    02 85 2056d 2d 0E 00002400 
+
+    <HIST> MSS53                  SIGU-2      SWITCH    2013-07-03  02:34:44.46
+    NOTICE SIGU-2     1A005-02    SIZ_SC                               
+    (0201) 0131 CIRCUIT/CIC DEBLOCKED                                           
+    02 85 2064d 1d 1F 00002400 
+
+    <HIST> MSS53                  SIGU-1      SWITCH    2013-07-03  02:34:44.46
+    NOTICE SIGU-1     1A005-00    SIZ_SC                               
+    (0202) 0131 CIRCUIT/CIC DEBLOCKED                                           
+    02 85 2063d 1d 1F 00002400 
+
+    <HIST> MSS53                  SIGU-2      SWITCH    2013-07-03  02:34:44.46
+    NOTICE SIGU-2     1A005-02    SIZ_SC                               
+    (0203) 0131 CIRCUIT/CIC DEBLOCKED                                           
+    02 85 2067d 1d 1F 00002400 
+
+    <HIST> MSS53                  CMM-1       SWITCH    2013-07-03  02:49:36.37
+..  CANCEL ........               CCNETM                               
+    (0027) 2072 FAILURE IN SIGNALLING LINK ACTIVATION OR RESTORATION            
+    0030 03 00 00 
+
+    <HIST> MSS53                  CMM-1       SWITCH    2013-07-03  02:53:39.39
+**  ALARM  ........               CCNETM                               
+    (0030) 2072 FAILURE IN SIGNALLING LINK ACTIVATION OR RESTORATION            
+    0030 03 00 00 
+
+    <HIST> MSS53                  STU-1       SWITCH    2013-07-03  04:17:02.72
+    NOTICE STU-1      1A001-07    OL1_SX                               
+    (0204) 0154 INTERCEPTION NOTICE                                             
+    A008 00000000 0000 00000000 00000000 
+
+    <HIST> MSS53                  STU-1       SWITCH    2013-07-03  04:17:04.34
+    NOTICE STU-1      1A001-07    OL1_SX                               
+    (0205) 0154 INTERCEPTION NOTICE                                             
+    A00B 00000000 0000 00000000 00000000 
+
+    <HIST> MSS53                  CMM-1       SWITCH    2013-07-03  04:55:14.61
+..  CANCEL ........               CCNETM                               
+    (0015) 2072 FAILURE IN SIGNALLING LINK ACTIVATION OR RESTORATION            
+    002F 03 00 00 
+
+    <HIST> MSS53                  CMM-1       SWITCH    2013-07-03  04:59:10.24
+**  ALARM  ........               CCNETM                               
+    (0031) 2072 FAILURE IN SIGNALLING LINK ACTIVATION OR RESTORATION            
+    002F 03 00 00 
+
+    <HIST> MSS53                  STU-1       SWITCH    2013-07-03  05:35:18.76
+    NOTICE STU-1      1A001-07    OL1_SX                               
+    (0206) 0154 INTERCEPTION NOTICE                                             
+    A008 00000000 0000 00000000 00000000 
+
+    <HIST> MSS53                  STU-1       SWITCH    2013-07-03  05:35:20.41
+    NOTICE STU-1      1A001-07    OL1_SX                               
+    (0207) 0154 INTERCEPTION NOTICE                                             
+    A00B 00000000 0000 00000000 00000000 
+
+    <HIST> MSS53                  STU-1       SWITCH    2013-07-03  05:40:16.37
+    NOTICE STU-1      1A001-07    OL1_SX                               
+    (0208) 0154 INTERCEPTION NOTICE                                             
+    A008 00000000 0000 00000000 00000000 
+
+    <HIST> MSS53                  STU-1       SWITCH    2013-07-03  05:40:18.04
+    NOTICE STU-1      1A001-07    OL1_SX                               
+    (0209) 0154 INTERCEPTION NOTICE                                             
+    A00B 00000000 0000 00000000 00000000 
+
+    <HIST> MSS53                  OMU-1       SWITCH    2013-07-03  08:14:24.24
+*   DISTUR OMU-1      1A004-03    CPUPRO                               
+    (0210) 1078 PROCESS EXCEPTION                                               
+    0337 0000 0D 000C 000002D0 
+
+    <HIST> MSS53                  OMU-1       SWITCH    2013-07-03  10:44:49.73
+*   DISTUR OMU-1      1A004-03    CPUPRO                               
+    (0211) 1078 PROCESS EXCEPTION                                               
+    0344 0000 0D 000C 000002D0 
+
+    <HIST> MSS53                  OMU-1       SWITCH    2013-07-03  10:45:03.64
+*   DISTUR OMU-1      1A004-03    CPUPRO                               
+    (0212) 1078 PROCESS EXCEPTION                                               
+    0345 0000 0D 000C 000002D0 
+
+END OF ALARM HISTORY
+
+
+COMMAND EXECUTED
+
+
+ALARM HISTORY HANDLING COMMAND <AH_>
+<  
