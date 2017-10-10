@@ -11,11 +11,4 @@ for i in range(0, len(ListSorting.threestar)):
 for i in range(0, len(ListSorting.twostar)):
     computer_units.append(ListSorting.twostar[i][0].split()[2])
 
-for i in range(0, len(ListSorting.onestar)):
-    computer_units.append(ListSorting.onestar[i][0].split()[2])
-
-for i in range(0, len(ListSorting.notice)):
-    computer_units.append(ListSorting.notice[i][0].split()[2])
-
-
 print Counter(computer_units)
