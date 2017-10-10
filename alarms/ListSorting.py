@@ -23,9 +23,9 @@ def sort_list():
     for i in allBlocks:
         if "*** ALARM" in i[1]:
             threestar.append(i)
-        elif "** ALARM" in i[1]:
+        elif "**  ALARM" in i[1]:
             twostar.append(i)
-        elif "* ALARM" in i[1]:
+        elif "*   ALARM" in i[1]:
             onestar.append(i)
         elif "NOTICE" in i[1]:
             notice.append(i)
